@@ -1,6 +1,6 @@
 ### LLMs
 
-Here you find an intro to Large Language Models we also look at what makes up a LLM and Foundations Models play a part in creating LLMs 
+Here you find an introduction to Large Language Models we also look at what makes up a LLM and Foundations Models play a part in creating LLMs 
 
 Some images have being taking from Google images or created by an AI online tool.
 
