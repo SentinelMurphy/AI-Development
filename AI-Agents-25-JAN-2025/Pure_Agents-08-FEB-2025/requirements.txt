@@ -1,0 +1,5 @@
+aiohttp
+json
+langchain_openai
+asyncio
+pydantic
