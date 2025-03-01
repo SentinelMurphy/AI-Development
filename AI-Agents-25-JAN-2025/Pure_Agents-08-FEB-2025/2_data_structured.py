@@ -21,8 +21,6 @@ class CalendarEvent(BaseModel):
     date: str
     participants: list[str]
 
-
-
 messages = [
     {
         "role":"system",

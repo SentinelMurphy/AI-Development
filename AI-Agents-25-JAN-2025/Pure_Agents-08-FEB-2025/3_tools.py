@@ -34,7 +34,7 @@ tools = [{
 }]
 
 system_prompt = "You are a helpful weather assistant"
-user_prompt = "What's the weather like in Pariss today?"
+user_prompt = "What's the weather like in Cork today?"
 
 messages = [
     {
@@ -90,6 +90,6 @@ class WeatherResponse(BaseModel):
 
 #print('messages : ', messages)
 # Call the LLM this time with Weather Context and more information for the LLM.
-structured_llm = models.with_structured_output(WeatherResponse)
+structured_llm = model.with_structured_output(WeatherResponse)
 completion_2 = structured_llm.invoke(messages)
 print('Second call to LLM with Context :  ',completion_2)
