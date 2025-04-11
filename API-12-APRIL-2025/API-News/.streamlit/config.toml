@@ -1,0 +1,19 @@
+[logger]
+
+# Level of logging: 'error', 'warning', 'info', or 'debug'.
+level = 'warning'
+
+messageFormat = "%(asctime)s %(message)s"
+
+[browser]
+
+# Default: true
+gatherUsageStats = false
+
+[theme]
+
+primaryColor="#818cf8"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F0F2F6"
+textColor="#262730"
+font="sans serif"
