@@ -1,4 +1,6 @@
-**Welcome to GitHub!**
+**Welcome to GitHub On-boarding for CoderDojo**
+
+---
 
 GitHub is a web-based platform that allows developers to host, share, and
 collaborate on code repositories. As a developer, having a presence on
@@ -73,3 +75,9 @@ To share your work with others, create a pull request:
 That's it! With these steps, you've successfully set up a new GitHub account, cloned a repository, made changes, committed them, and created a pull request. Keep practicing, and you'll become a pro at using GitHub in no time!
 
 ---
+
+> [!NOTE]  
+For more information about Cork Airport CoderDojo, I recommend reviewing the repository. : [Cork Airport CoderDojo Repo](https://github.com/cork-airport-dojo)
+
+> [!IMPORTANT]  
+>CoderDojo Github Policy  : [Github Policy](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
